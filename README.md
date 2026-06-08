@@ -1,4 +1,3 @@
-<!-- From Uiverse.io by uiverse-astronaut --> 
 <label class="cairn-field">
   <span class="cairn-field__label">Workspace name</span>
   <input
