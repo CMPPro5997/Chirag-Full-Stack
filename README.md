@@ -19,6 +19,6 @@
     <li>UI/UX essential basics</li>
 </ol>
 
- h2><a href="#">Project 1</a></h2>
+ <h2><a href="#">Project 1 - This project regarded me forming a short educational and functional quiz on a topic of my choice in which i chose Energy for High School Students</a></h2>
 </body>
 </html>
