@@ -7,7 +7,7 @@
 <body>
     <h1>Chirag Patel</h1>
     <h2>Freelance Web Development Intern</h2>
-<h3>Based in birmingham</h3>
+<h3>Based in Birmingham</h3>
 
 <h1>Key Skills (So Far)</h1>
 <ol>
