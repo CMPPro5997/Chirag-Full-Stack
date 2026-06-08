@@ -8,7 +8,16 @@
 </head>
 <body>
     <h1>Chirag Patel</h1>
-    <h2>Freelance Web Development</h2>
+    <h2>Freelance Web Development Intern</h2>
+<h3>Based in birmingham</h3>
+
+<h1>Key Skills (So Far)</h1>
+<ol>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>UI/UX essential basics</li>
+</ol>
 
 </body>
 </html>
