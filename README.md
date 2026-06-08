@@ -19,6 +19,7 @@
     <li>UI/UX essential basics</li>
 </ol>
 
- <h2><a href="#">Project 1 - This project regarded me forming a short educational and functional quiz on a topic of my choice in which i chose Energy for High School Students</a></h2>
+ <h2><a href="#">Project 1 - This project regarded me forming a short educational and functional quiz on a topic of my choice in which I chose Energy for High School Students</a></h2>
+ <img src="https://placehold.co/600x400">
 </body>
 </html>
