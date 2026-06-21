@@ -21,8 +21,4 @@
 <li>Django</li>
 </ol> 
 
- <h2><a href="#">Project 1 - This project regarded me forming a short educational and functional quiz on a topic of my choice in which I chose Energy for High School Students</a></h2>
- <img src="https://placehold.co/600x400">
- <figcaption> Screenshot of Project 1</figcaption>
-</body>
-</html>
+<button>Click to Access my Portfolio</button>
